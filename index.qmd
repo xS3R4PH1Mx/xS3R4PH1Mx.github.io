@@ -1,2 +1,7 @@
 # Introduction
-Hi This is Jae.
+Hi This is Jae. I dress y2k, mainly scene and emo. I listen to music such as crunkcore, post-hardcore and many other music.
+
+![Picture of Me](imgs/me.jpg){width="70px"}
+
+### More About Me
+I used to be from RP and i studied FinTech before changing to AI course.
