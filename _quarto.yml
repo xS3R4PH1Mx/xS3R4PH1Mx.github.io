@@ -16,6 +16,8 @@ format:
     theme: vapor
     css: styles.css
     toc: true
+    toc-depth: 3
+    toc-location: left
 
 
 
